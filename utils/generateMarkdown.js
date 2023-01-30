@@ -93,8 +93,9 @@ function renderLicenseSection(license) {
   
 
   ## Questions
-  ### ${data.email}
-`;
+  #### Github Profile: https://github.com/${data.user}
+  #### Contact Email: ${data.email}
+  `;
 }
 
 module.exports = generateMarkdown;

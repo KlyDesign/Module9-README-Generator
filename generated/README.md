@@ -1,7 +1,7 @@
-# **Kyle**  
+# **ReadMe Generator** [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
 
   ## Description
-  ####  kjtye
+  ####  An inquirer Github Readme Generator
 
 
   ## Table of Contents: 
@@ -11,24 +11,26 @@
   ### [Contributions](#contributions)
   ### [Tests](#tests)
   ### [License](#license)
-  ### [Contact](#contact)
+  ### [Questions](#questions)
 
   ## Installation
-  ### kyle
+  ### npm inquirer@8 and node index.js 
 
   ## Usage
-  ### ktyle
+  ### run node index.js in local diredtory using bash and node  after installing inquirer/The file will be written to generated folder 
 
   ## Contributions
-  ### ktyle
+  ### Me myself and I
 
   ## Tests
-  ### ktyle
+  ### none
 
   ## License
-  ###    
-  #### No license pick one: https://choosealicense.com/licenses/
+  ### The MIT License  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
+  #### https://www.mit.edu/~amini/LICENSE.md
   
 
-  ## Contact
-  ### fd
+  ## Questions
+  #### Github Profile: https://github.com/KlyDesign
+  #### Contact Email: KyleHipple@gmail.com
+  
