@@ -5,13 +5,13 @@
 
 
   ## Table of Contents: 
-  ### [Description](#description)
-  ### [Installation](#installation)
-  ### [Usage](#usage)
-  ### [Contributions](#contributions)
-  ### [Tests](#tests)
-  ### [License](#license)
-  ### [Questions](#questions)
+  #### [Description](#description)
+  #### [Installation](#installation)
+  #### [Usage](#usage)
+  #### [Contributions](#contributions)
+  #### [Tests](#tests)
+  #### [License](#license)
+  #### [Questions](#questions)
 
   ## Installation
   ### npm inquirer@8 and node index.js 

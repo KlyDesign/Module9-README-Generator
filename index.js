@@ -66,15 +66,12 @@ const questions = [
   }
 ];
 
-// TODO: Create a function to write README file
-// function writeToFile(fileName, data) 
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, data, err =>
     err ? console.error(err) : console.log('Wrote File!')
 );
 };
 
-// TODO: Create a function to initialize app
 function init() {
   inquirer.prompt(questions)
   .then(function(respo){
@@ -83,5 +80,4 @@ function init() {
   });
 };
 
-// Function call to initialize app
 init();
