@@ -1,5 +1,15 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
+// sections i need.....
+  //Title
+  // Description, 
+  // Table of Contents, 
+  // Installation, 
+  // Usage, 
+  // Contributing, 
+  // Tests, 
+  // License, 
+  // Questions(Link to github and email for additional questions)
+
+//Badging Function
 const index = require('../index.js')
 function renderLicenseBadge(license) {
   let badge = '';
@@ -13,6 +23,7 @@ function renderLicenseBadge(license) {
   }
   return badge;
 }
+
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string

@@ -14,7 +14,7 @@
 const inquirer = require('inquirer');
 const fs =require('fs');
 const generateMarkdown = require('./utils/generateMarkdown.js');
-
+//debating trying to use import and a newer verson of inquirer but issues with generated markdown as a common js and not module gives issues
 const questions = [
   {
   type: 'input',
@@ -79,7 +79,7 @@ function init() {
   inquirer.prompt(questions)
   .then(function(respo){
       console.log(respo)
-      writeToFile("README.md", generateMarkdown(respo))
+      writeToFile("/generated/README.md", generateMarkdown(respo))
   });
 };
 
