@@ -14,16 +14,16 @@
   #### [Questions](#questions)
 
   ## Installation
-  ### npm inquirer@8 and node index.js 
+  ### npm i inquirer@8 and node index.js
 
   ## Usage
-  ### run node index.js in local diredtory using bash and node  after installing inquirer/The file will be written to generated folder 
+  ### Run node index.js in bash in local folder // or run npm start 
 
   ## Contributions
-  ### Me myself and I
+  ### Me Myself and I
 
   ## Tests
-  ### none
+  ### npm test 
 
   ## License
   ### The MIT License  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
@@ -32,5 +32,5 @@
 
   ## Questions
   #### Github Profile: https://github.com/KlyDesign
-  #### Contact Email: KyleHipple@gmail.com
+  #### Contact Email: Kly@gmail.com
   
